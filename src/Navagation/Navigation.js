@@ -17,13 +17,16 @@ function Navigation() {
               <Link to="/">Home</Link>
             </li>
             <li>
+           
+            <Link to="/aboutus">aboutus</Link>
+            </li>
+            <li>
+            <Link to="/menubar">menubar</Link>
+            </li>
+            <li>
+          
+              
               <Link to="/contacts">Contact</Link>
-            </li>
-            <li>
-              <Link to="/aboutus">aboutus</Link>
-            </li>
-            <li>
-              <Link to="/menubar">menubar</Link>
             </li>
           </ul>
         </nav>

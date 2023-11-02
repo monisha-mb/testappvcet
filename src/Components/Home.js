@@ -1,4 +1,4 @@
-import { Card, CardContent, CardMedia, Typography } from '@mui/material';
+import { Card, CardContent, Typography } from '@mui/material';
 import React from 'react';
 import './Css/home.css';
 import Footer from './Footer';
@@ -105,7 +105,10 @@ function Home() {
       </Card>
       <Footer />
     </div>
+    
   );
-}
+  
+
+  }
 
 export default Home;
